@@ -1,4 +1,4 @@
-<img align="left" width="250"  src="https://raw.githubusercontent.com/kivigo/kivigo/refs/heads/main/website/static/img/logo-kivigo.png" alt="KiviGo Logo" />
+<img align="left" width="250"  src="https://kivigo.github.io/img/logo-kivigo.png" alt="KiviGo Logo" />
 
 # KiviGo · Unified Key-Value Store for Go
 
@@ -22,9 +22,9 @@ KiviGo helps you focus on your application logic, not backend-specific details.
 
 ## 📚 Documentation
 
-- **Main documentation:** [https://kivigo.github.io/kivigo/](https://kivigo.github.io/kivigo/)
+- **Main documentation:** [https://kivigo.github.io/kivigo/](https://kivigo.github.io/)
 - **API reference:** [pkg.go.dev/github.com/kivigo/kivigo](https://pkg.go.dev/github.com/kivigo/kivigo)
-- **Backends overview:** [Backends list & docs](https://kivigo.github.io/kivigo/docs/backends/overview)
+- **Backends overview:** [Backends list & docs](https://kivigo.github.io/docs/backends/overview)
 
 ---
 
