@@ -22,7 +22,7 @@ KiviGo helps you focus on your application logic, not backend-specific details.
 
 ## 📚 Documentation
 
-- **Main documentation:** [https://kivigo.github.io/kivigo/](https://kivigo.github.io/)
+- **Main documentation:** [https://kivigo.github.io/](https://kivigo.github.io/)
 - **API reference:** [pkg.go.dev/github.com/kivigo/kivigo](https://pkg.go.dev/github.com/kivigo/kivigo)
 - **Backends overview:** [Backends list & docs](https://kivigo.github.io/docs/backends/overview)
 
